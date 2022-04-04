@@ -1,0 +1,15 @@
+button {
+  text-align: center;
+  background-color: rgba(148, 190, 235, 0.44);
+  display: inline-flex;
+  width: 20%;
+  margin: 30px;
+  flex-direction: column;
+  border-style: none;
+}
+button > div {
+  margin: 0 auto;
+}
+#root{
+  text-align: center;
+}
