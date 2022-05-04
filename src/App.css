@@ -6,6 +6,7 @@ button {
   margin: 30px;
   flex-direction: column;
   border-style: none;
+  margin: 0 auto;
 }
 button > div {
   margin: 0 auto;
