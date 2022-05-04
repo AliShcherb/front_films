@@ -1,5 +1,10 @@
 import React, {useEffect, useState} from 'react';
 import './App.css';
+<<<<<<< HEAD
+=======
+import './App.css';
+import './App.css';git
+>>>>>>> bbde400 (2 commit)
 import {useNavigate} from "react-router-dom";
 
 
@@ -56,16 +61,7 @@ const Redirect = ({id, name, year, picture, director}: CardProps) => {
     );
 }
 
-/*const Card = ({name, year, picture, director}: CardProps) => (
-    <div className="app">
-        <a>
-            <FilmName name={name}/>
-            <Picture picture={picture}/>
-            <FilmYear year={year}/>
-            <Director director={director}/>
-        </a>
-    </div>
-);*/
+
 
 
 
