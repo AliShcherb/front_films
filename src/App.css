@@ -13,4 +13,6 @@ button > div {
 }
 #root{
   text-align: center;
+  margin: 0 auto;
+  border-style: none;
 }

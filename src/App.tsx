@@ -1,10 +1,7 @@
 import React, {useEffect, useState} from 'react';
 import './App.css';
-<<<<<<< HEAD
-=======
 import './App.css';
-import './App.css';git
->>>>>>> bbde400 (2 commit)
+import './App.css';
 import {useNavigate} from "react-router-dom";
 
 
